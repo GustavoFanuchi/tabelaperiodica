@@ -1,0 +1,38 @@
+body{height: 750px; background-color: navajowhite;}
+table{height: 100%;
+width: 100%;}
+td{
+border-radius: 5px;    
+width: 5%;
+height: 8.3%;
+border: solid 1px
+;}
+td:hover{transform: scale(1.2);
+ z-index: 100;}
+.noborder{border: 0cap;}
+.naometais{background-color: lightgreen;}
+.metaisa{background-color: orange;}
+.metaisat{background-color: yellow;}
+.metaist{background-color: lightcoral;}
+.lata{background-color: aquamarine;}
+.act{background-color: rebeccapurple;}
+.semi{background-color: darkcyan;}
+.outros{background-color: lightsteelblue;}
+.halo{background-color: lightseagreen;}
+.gasesn{background-color: skyblue;}
+.num{font-size: 20px; height: 13px; margin-left: 20px;}
+.letra{font-size: 40px; text-align: center;}
+.nome{font-size: 18px; text-align: center;}
+.intervalo{font-size: 20px; text-align: center; background-color: aquamarine;}
+.intervalo2{font-size: 20px; text-align: center; background-color: rebeccapurple;}
+.titulo{font-size: 50px; text-align: center;}
+.naometaisl{color: lightgreen;}
+.metaisal{color: orange;}
+.metaisatl{color: yellow;}
+.metaistl{color: lightcoral;}
+.latal{color: aquamarine;}
+.actl{color: rebeccapurple;}
+.semil{color: darkcyan;}
+.outrosl{color: lightsteelblue;}
+.halol{color: lightseagreen;}
+.gasesnl{color: skyblue;}
